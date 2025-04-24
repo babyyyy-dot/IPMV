@@ -15,3 +15,4 @@ cd "$DIR_NAME" || exit
 
 echo "Launching spyder...."
 spyder -p "."
+
